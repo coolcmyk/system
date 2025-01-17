@@ -1,6 +1,6 @@
 from groqLang import Aiko
 from deepgram_tts import synthesize_and_play_text
-import asyncio
+import asynci   o
 
 async def initialize_amadeus():
     amadeus = Aiko('')
